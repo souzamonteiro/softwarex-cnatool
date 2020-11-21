@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Barabasi1999}
+A.-L. Barab\'{a}si, R.~Albert, Emergence of scaling in random networks, Science
+  286~(5439) (1999) 509--512.
+\newblock \href {http://dx.doi.org/10.1126/science.286.5439.509}
+  {\path{doi:10.1126/science.286.5439.509}}.
+
+\end{thebibliography}
