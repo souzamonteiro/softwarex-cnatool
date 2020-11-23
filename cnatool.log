@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2020.11.18)  20 NOV 2020 20:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2020.11.18)  23 NOV 2020 17:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -266,37 +266,117 @@ Overfull \hbox (35.70529pt too wide) in paragraph at lines 117--142
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (2.85606pt too wide) in paragraph at lines 186--187
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<images/macbook.png, id=15, 1268.74pt x 757.83125pt>
+File: images/macbook.png Graphic file (type png)
+ <use images/macbook.png>
+Package pdftex.def Info: images/macbook.png used on input line 168.
+(pdftex.def)             Requested size: 253.7435pt x 151.56357pt.
+
+<images/ipad.png, id=17, 1027.84pt x 770.88pt>
+File: images/ipad.png Graphic file (type png)
+ <use images/ipad.png>
+Package pdftex.def Info: images/ipad.png used on input line 176.
+(pdftex.def)             Requested size: 205.56436pt x 154.17326pt.
+
+<images/iphone.png, id=18, 376.40625pt x 669.50125pt>
+File: images/iphone.png Graphic file (type png)
+ <use images/iphone.png>
+Package pdftex.def Info: images/iphone.png used on input line 184.
+(pdftex.def)             Requested size: 75.2799pt x 133.89787pt.
+
+<images/mindmap.png, id=19, 1383.1675pt x 1042.89626pt>
+File: images/mindmap.png Graphic file (type png)
+
+<use images/mindmap.png>
+Package pdftex.def Info: images/mindmap.png used on input line 195.
+(pdftex.def)             Requested size: 414.95345pt x 312.87129pt.
+
+Overfull \hbox (24.95345pt too wide) in paragraph at lines 195--196
+ [] 
+ []
+
+<images/use-case.png, id=20, 1687.30376pt x 1195.46625pt>
+File: images/use-case.png Graphic file (type png)
+
+<use images/use-case.png>
+Package pdftex.def Info: images/use-case.png used on input line 203.
+(pdftex.def)             Requested size: 421.8249pt x 298.86583pt.
+
+Overfull \hbox (31.8249pt too wide) in paragraph at lines 203--204
+ [] 
+ []
+
+<images/class-diagram.png, id=21, 1175.39125pt x 733.74126pt>
+File: images/class-diagram.png Graphic file (type png)
+
+<use images/class-diagram.png>
+Package pdftex.def Info: images/class-diagram.png used on input line 211.
+(pdftex.def)             Requested size: 352.6201pt x 220.12407pt.
+
+<images/architecture.png, id=22, 282.05376pt x 432.61626pt>
+File: images/architecture.png Graphic file (type png)
+
+<use images/architecture.png>
+Package pdftex.def Info: images/architecture.png used on input line 219.
+(pdftex.def)             Requested size: 141.02652pt x 216.3076pt.
+
+<images/complete.png, id=23, 1003.75pt x 1003.75pt>
+File: images/complete.png Graphic file (type png)
+ <use images/complete.png>
+Package pdftex.def Info: images/complete.png used on input line 235.
+(pdftex.def)             Requested size: 200.74644pt x 200.74644pt.
+
+<images/scalefree.png, id=24, 1003.75pt x 1003.75pt>
+File: images/scalefree.png Graphic file (type png)
+
+<use images/scalefree.png>
+Package pdftex.def Info: images/scalefree.png used on input line 246.
+(pdftex.def)             Requested size: 301.12732pt x 301.12732pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 252.
+
+
+Overfull \hbox (50.95306pt too wide) in paragraph at lines 254--268
+ [][] 
+ []
+
+
+Overfull \hbox (2.85606pt too wide) in paragraph at lines 270--271
 \OML/cmm/m/it/12 apps:sciverse:com=GadgetVideoPodcastPlayerWeb=verification$\OT
 1/cmr/m/n/12 . This tool
  []
 
-[3] (./cnatool.bbl) [4] (./cnatool.aux) ) 
+[2] [3 <./images/macbook.png> <./images/ipad.png>] [4 <./images/iphone.png> <./
+images/mindmap.png>] [5 <./images/use-case.png>] [6 <./images/class-diagram.png
+> <./images/architecture.png>] [7 <./images/complete.png> <./images/scalefree.p
+ng>] [8] (./cnatool.bbl) [9] (./cnatool.aux) ) 
 Here is how much of TeX's memory you used:
- 2677 strings out of 494929
- 35249 string characters out of 6180141
- 94818 words of memory out of 5000000
- 5924 multiletter control sequences out of 15000+600000
+ 2736 strings out of 494929
+ 36396 string characters out of 6180141
+ 102898 words of memory out of 5000000
+ 5972 multiletter control sequences out of 15000+600000
  12790 words of font info for 49 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
- 38i,10n,30p,595b,218s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cnatool.pdf (4 pages, 154267 bytes).
+ 38i,10n,30p,595b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on cnatool.pdf (9 pages, 973200 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 46 compressed objects within 1 object stream
+ 101 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
