@@ -1,0 +1,593 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Network Analysis",
+      "id": 1,
+      "attr": {
+        "position": [
+          -412,
+          18,
+          1
+        ],
+        "style": {
+          "text": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Tools",
+          "id": "2.1485.ddfa7ed4c-0bc5.1ec76b493",
+          "ideas": {
+            "2": {
+              "title": "SocNetV",
+              "id": "47.1485.ddfa7ed4c-0bc5.1ec76b493",
+              "attr": {
+                "style": {
+                  "backgroundColor": "#808080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                },
+                "position": [
+                  71,
+                  71,
+                  2
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Accuracy",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "High",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      },
+                      "id": "49.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    }
+                  },
+                  "id": "48.1485.ddfa7ed4c-0bc5.1ec76b493"
+                },
+                "2": {
+                  "title": "Complexity",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#C0C0C0",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Medium",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFCC00"
+                        }
+                      },
+                      "id": "51.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    }
+                  },
+                  "id": "50.1485.ddfa7ed4c-0bc5.1ec76b493"
+                },
+                "3": {
+                  "title": "Platform",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Windows",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      },
+                      "id": "53.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    },
+                    "2": {
+                      "title": "Linux",
+                      "id": "54.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "macOS",
+                      "id": "55.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "id": "52.1485.ddfa7ed4c-0bc5.1ec76b493"
+                }
+              }
+            },
+            "3": {
+              "title": "CNATool",
+              "id": "9.1485.ddfa7ed4c-0bc5.1ec76b493",
+              "ideas": {
+                "2": {
+                  "title": "Accuracy",
+                  "id": "39.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "High",
+                      "id": "40.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008000",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Complexity",
+                  "id": "41.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "Low",
+                      "id": "42.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#008000",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "13": {
+                  "title": "Platform",
+                  "id": "37.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "Web",
+                      "id": "38.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      90,
+                      51,
+                      1
+                    ],
+                    "style": {
+                      "backgroundColor": "#008000",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#808000",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "0.5": {
+              "title": "Gephi",
+              "id": "8.1485.ddfa7ed4c-0bc5.1ec76b493",
+              "ideas": {
+                "1.5": {
+                  "title": "Complexity",
+                  "id": "45.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "Medium",
+                      "id": "46.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFCC00"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#C0C0C0",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                },
+                "1.75": {
+                  "title": "Platform",
+                  "id": "35.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "Java",
+                      "id": "36.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "0.75": {
+                  "title": "Accuracy",
+                  "id": "43.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "High",
+                      "id": "44.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#808080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "0.25": {
+              "title": "Pajek",
+              "id": "7.1485.ddfa7ed4c-0bc5.1ec76b493",
+              "ideas": {
+                "1": {
+                  "title": "Complexity",
+                  "id": "27.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "High",
+                      "id": "30.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FF0000",
+                          "text": {
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#C0C0C0",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Platform",
+                  "id": "33.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "Windows",
+                      "id": "34.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#FFCC00"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#C0C0C0",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                },
+                "0.5": {
+                  "title": "Accuracy",
+                  "id": "31.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "High",
+                      "id": "32.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#99CC00",
+                          "text": {
+                            "color": "#000000"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "position": [
+                      84,
+                      -59,
+                      1
+                    ],
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#808080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                },
+                "position": [
+                  64,
+                  -267,
+                  1
+                ]
+              }
+            }
+          }
+        },
+        "-10": {
+          "title": "Data",
+          "id": "29.1485.ddfa7ed4c-0bc5.1ec76b493",
+          "ideas": {
+            "1": {
+              "title": "Network",
+              "id": "6.1485.ddfa7ed4c-0bc5.1ec76b493",
+              "ideas": {
+                "1": {
+                  "title": "Vertex",
+                  "id": "5.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#C0C0C0",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Properties",
+                      "id": "11.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "ideas": {
+                        "1": {
+                          "title": "Degree",
+                          "id": "21.1485.ddfa7ed4c-0bc5.1ec76b493"
+                        },
+                        "2": {
+                          "title": "Clustering",
+                          "id": "22.1485.ddfa7ed4c-0bc5.1ec76b493",
+                          "ideas": {}
+                        },
+                        "3": {
+                          "title": "Centralities",
+                          "id": "23.1485.ddfa7ed4c-0bc5.1ec76b493",
+                          "attr": {
+                            "style": {
+                              "backgroundColor": "#808000",
+                              "text": {
+                                "color": "#FFFFFF"
+                              }
+                            }
+                          },
+                          "ideas": {
+                            "1": {
+                              "title": "Closeness",
+                              "id": "24.1485.ddfa7ed4c-0bc5.1ec76b493"
+                            },
+                            "2": {
+                              "title": "Betweenness",
+                              "id": "26.1485.ddfa7ed4c-0bc5.1ec76b493"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Properties",
+                  "id": "10.1485.ddfa7ed4c-0bc5.1ec76b493",
+                  "ideas": {
+                    "1": {
+                      "title": "Average Drgree",
+                      "id": "12.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    },
+                    "3": {
+                      "title": "Average Degree",
+                      "id": "14.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    },
+                    "4": {
+                      "title": "Average Clustering Coefficient",
+                      "id": "17.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#808000",
+                          "text": {
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      }
+                    },
+                    "5": {
+                      "title": "Average Shortest Path",
+                      "id": "18.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#808000",
+                          "text": {
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      }
+                    },
+                    "6": {
+                      "title": "Diameter",
+                      "id": "19.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    },
+                    "7": {
+                      "title": "Efficiency",
+                      "id": "20.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#808000",
+                          "text": {
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      }
+                    },
+                    "2.5": {
+                      "title": "Vertices",
+                      "id": "15.1485.ddfa7ed4c-0bc5.1ec76b493"
+                    },
+                    "2.625": {
+                      "title": "Density",
+                      "id": "13.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {
+                        "style": {
+                          "backgroundColor": "#808000",
+                          "text": {
+                            "color": "#FFFFFF"
+                          }
+                        }
+                      },
+                      "ideas": {}
+                    },
+                    "2.5625": {
+                      "title": "Edges",
+                      "id": "16.1485.ddfa7ed4c-0bc5.1ec76b493",
+                      "attr": {}
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#C0C0C0",
+                      "text": {
+                        "color": "#000000"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#808080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "attr": {
+    "theme": "default"
+  },
+  "title": "Network Analysis",
+  "links": []
+}
